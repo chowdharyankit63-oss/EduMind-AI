@@ -68,13 +68,13 @@ ML/
 │
 └── README.md
 
+
+```bash
+
+```
 # ⚙️ Complete Setup Guide
 
 ## 1️⃣ Go To Project Folder
-
-```bash
-cd ~/Desktop/ML
-```
 
 ## 2️⃣ Check Python Version
 
